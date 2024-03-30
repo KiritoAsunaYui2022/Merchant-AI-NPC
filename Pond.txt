@@ -1,0 +1,20 @@
+Player Gold Coins: 100
+Player Ruka: 0
+
+Player Total Instance Score: 50
+Player Total Possible Score: 100
+Player Good Human Score: 50
+
+Player Unfiltered Response: 
+Player Filtered Response: 
+Player Filtered With Paid Response: 
+Player Commands: 
+
+Mercali Gold Coins: 100
+Mercali Ruka Stock: 100
+
+Mercali Unfiltered Response: 
+Mercali Filtered Response: 
+Mercali Commands: 
+
+Count To Summarization: 0
